@@ -1,11 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:intl/intl.dart';
-// import 'package:todo/modules/archived/archived.dart';
-// import 'package:todo/modules/done/done.dart';
-// import 'package:todo/modules/new/new.dart';
-// import 'package:sqflite/sqflite.dart';
-// import 'package:todo/shared/component/constant.dart';
 import 'package:todo/shared/component/component.dart';
 import 'package:todo/shared/cubit/cubit.dart';
 import 'package:todo/shared/cubit/states.dart';
