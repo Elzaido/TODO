@@ -41,7 +41,7 @@ class AppCubit extends Cubit<AppStates> {
   }
 
   void ChangeBottumSheetShow({
-    required isSheet,
+    required bool isSheet,
   }) {
     isBottumSheetShow = isSheet;
     emit(AppChangeBottomSheetState());
